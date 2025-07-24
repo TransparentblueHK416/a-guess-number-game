@@ -19,4 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\x64\Release\a guess number game.exe">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\x64\Release\a guess number game.pdb">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>
