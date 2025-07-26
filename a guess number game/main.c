@@ -43,6 +43,7 @@ int main()
 	{
 		menu();
 		printf("ÇëÑ¡Ôñ>:");
+		scanf("%d", &input);
 		switch (input)
 		{
 			case 1:
